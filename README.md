@@ -1,2 +1,2 @@
-# c-codes
-factorial of a number
+RONNY KIPROP
+EB3/61591/22
